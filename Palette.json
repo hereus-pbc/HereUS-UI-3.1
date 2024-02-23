@@ -1,0 +1,100 @@
+{
+  "Blank": {
+    "Light": {
+      "AccentColor": "#2196f3",
+      "Background": "#e2e2e2",
+      "WidgetColor": "#ebebeb",
+      "SubWidgetColor": "#f9f9f9"
+    },
+    "Dark": {
+      "AccentColor": "#2196f3",
+      "Background": "#3f3f3f",
+      "WidgetColor": "#1f1f1f",
+      "SubWidgetColor": "#101010"
+    }
+  },
+  "Red": {
+    "Light": {
+      "AccentColor": "#d32f2f",
+      "Background": "#ffcfcf",
+      "WidgetColor": "#ffdbdb",
+      "SubWidgetColor": "#ffe7e7"
+    },
+    "Dark": {
+      "AccentColor": "#d32f2f",
+      "Background": "#663636",
+      "WidgetColor": "#331b1b",
+      "SubWidgetColor": "#1a0d0d"
+    }
+  },
+  "Orange": {
+    "Light": {
+      "AccentColor": "#f57c00",
+      "Background": "#ffe7b9",
+      "WidgetColor": "#ffedcb",
+      "SubWidgetColor": "#fff3dc"
+    },
+    "Dark": {
+      "AccentColor": "#f57c00",
+      "Background": "#664300",
+      "WidgetColor": "#332200",
+      "SubWidgetColor": "#1a1100"
+    }
+  },
+  "Yellow": {
+    "Light": {
+      "AccentColor": "#ffeb3b",
+      "Background": "#fffcb1",
+      "WidgetColor": "#fffdc0",
+      "SubWidgetColor": "#fffdd0"
+    },
+    "Dark": {
+      "AccentColor": "#ffeb3b",
+      "Background": "#666427",
+      "WidgetColor": "#333214",
+      "SubWidgetColor": "#1a190a"
+    }
+  },
+  "Green": {
+    "Light": {
+      "AccentColor": "#388e3c",
+      "Background": "#c4e5bf",
+      "WidgetColor": "#d3ebcf",
+      "SubWidgetColor": "#e1f2df"
+    },
+    "Dark": {
+      "AccentColor": "#388e3c",
+      "Background": "#2b4c26",
+      "WidgetColor": "#152613",
+      "SubWidgetColor": "#0b130a"
+    }
+  },
+  "Blue": {
+    "Light": {
+      "AccentColor": "#2196f3",
+      "Background": "#ceecff",
+      "WidgetColor": "#daf1ff",
+      "SubWidgetColor": "#e7f6ff"
+    },
+    "Dark": {
+      "AccentColor": "#2196f3",
+      "Background": "#003f66",
+      "WidgetColor": "#001f33",
+      "SubWidgetColor": "#00101a"
+    }
+  },
+  "Pink": {
+    "Light": {
+      "AccentColor": "#ba68c8",
+      "Background": "#f5cfff",
+      "WidgetColor": "#f8dbff",
+      "SubWidgetColor": "#fae7ff"
+    },
+    "Dark": {
+      "AccentColor": "#ba68c8",
+      "Background": "#5c3666",
+      "WidgetColor": "#2e1b33",
+      "SubWidgetColor": "#170d1a"
+    }
+  }
+}
