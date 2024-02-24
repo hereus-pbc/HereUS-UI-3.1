@@ -229,7 +229,7 @@ def app_icon() -> None:
 def auto_color() -> None:
     for a in ['background', 'asset']:
         for b in palette:
-            style.update({f'.body_{b.lower} .autocolor.{a}': (
+            style.update({f'.body_{b.lower()} .autocolor.{a}': (
                 {'background-color': palette[b]['Light']['AccentColor']}
                 if a == 'background' else
                 {'color': palette[b]['Light']['AccentColor']}
@@ -251,7 +251,7 @@ def navbar() -> None:
     }})
     style.update({"nav.Topbar": {
         "position": "fixed",
-        "top": "0px",
+        "top": "20px",
         "bottom": "0px",
         "left": "0px",
         "right": "0px",
