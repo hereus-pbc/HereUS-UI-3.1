@@ -14,7 +14,8 @@ def do_import() -> None:
         "https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200",
         "https://fonts.googleapis.com/css2?family=Croissant+One&family=Parisienne&display=swap",
         "https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&family=Moirai+One&display=swap",
-        "https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+        "https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap",
+        "https://www.nerdfonts.com/assets/css/webfont.css"
     ]})
 
 
