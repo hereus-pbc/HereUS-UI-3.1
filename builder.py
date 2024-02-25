@@ -310,6 +310,9 @@ def navbar() -> None:
         "float": "right",
         "filter": "drop-shadow(1px 1px 1px #808080A0)"
     }})
+    dark_style.update({'nav a button span': {
+        'color': '#ffffff'
+    }})
     for i in palette:
         style.update({f" .body_{i} nav.Navbar a.active button": {
             "background-color": palette[i]['Light']['AccentColor']
